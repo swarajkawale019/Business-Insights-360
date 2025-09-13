@@ -59,6 +59,8 @@ In large organizations, different teams rely on fragmented reporting tools, maki
 5. **Leverage Seasonal Sales Trends:**
    - **Observation:** There are noticeable peaks in net sales performance during specific months (e.g., December 21 with 508M net sales).
    - **Recommendation:** Plan and execute seasonal marketing campaigns to take advantage of these peak sales periods. Offer promotions, discounts, and special deals during these times to maximize sales and improve overall revenue.
+  
+    ![Image](https://github.com/user-attachments/assets/7da0bd21-bd15-446c-815c-fb602e802cc1)
 
 ### Sales View
 
@@ -82,6 +84,8 @@ In large organizations, different teams rely on fragmented reporting tools, maki
    - **Observation:** Amazon and AtliQ Exclusive are high-performing customer segments, contributing significantly to net sales.
    - **Recommendation:** Strengthen relationships with these key customers by offering exclusive deals, tailored marketing campaigns, and priority support. Explore opportunities for collaboration and joint marketing efforts to maximize sales potential.
 
+    ![Image](https://github.com/user-attachments/assets/40a81a23-c505-44f0-86ee-4b8cc18151b3)
+
 
 ### Marketing View
 
@@ -104,6 +108,8 @@ In large organizations, different teams rely on fragmented reporting tools, maki
 5. **Optimize Inventory and Supply Chain Management:**
    - **Observation:** The overall gross margin is 38.1%, but the net profit is significantly negative (-13.97%), indicating high operational expenses.
    - **Recommendation:** Implement robust inventory and supply chain management practices to reduce operational expenses. This can include better demand forecasting, just-in-time inventory management, and enhancing supplier relationships. Streamlining operations will help reduce costs and improve net profitability across all categories.
+  
+    ![Image](https://github.com/user-attachments/assets/e7248998-9464-44c9-b64f-8821c501d6bb)
 
 ### Supply Chain View
 
@@ -126,6 +132,8 @@ In large organizations, different teams rely on fragmented reporting tools, maki
 5. **Focus on High-Risk Customers and Segments:**
    - **Observation:** Key customers like Amazon and AtliQ Exclusive, and segments like Accessories and Peripherals, are highlighted as high risk (OOS or EI).
    - **Recommendation:** Prioritize these high-risk areas by developing targeted action plans to address specific risks. For example, for Amazon, reduce forecast errors and improve stock availability. For Accessories, implement strategies to clear excess inventory and avoid stockouts.
+  
+    ![Image](https://github.com/user-attachments/assets/a0ac740a-e813-4726-aac7-5ba481f3f9ef)
 
 
 ### Executive View
@@ -149,3 +157,5 @@ In large organizations, different teams rely on fragmented reporting tools, maki
 5. **Targeted Sales Growth in High Potential Sub-Regions:**
    - **Observation:** The Networking and Storage division shows favorable margins and net profits despite low sales.
    - **Recommendation:** Focus on driving sales growth in the Networking and Storage division by increasing marketing efforts and sales incentives in sub-regions with high potential. Highlight the profitability of this division to attract more customers.
+  
+   ![Image](https://github.com/user-attachments/assets/d56ecf8f-191d-44f8-a50c-97ed75c5b843)
