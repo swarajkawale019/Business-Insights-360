@@ -2,7 +2,7 @@
 
 **Business Impact :** This project delivered a **360° view of business performance**, enabling executives to drill down into **Finance, Sales, Marketing, and Supply Chain** in real time. By centralizing insights across functions, the solution can help organizations achieve up to **15–20% faster decision-making**, reduce **supply chain risks by 12%**, and improve **profitability tracking accuracy by 25%**.
 
-**You can explore the interactive Power BI dashboard here :** 👉 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzVkODJkOTQtNjI2OS00YTJlLWFlOTUtYmY1MTZiMzNiZTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**You can explore the interactive Power BI dashboard here :** 👉 [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNzVkODJkOTQtNjI2OS00YTJlLWFlOTUtYmY1MTZiMzNiZTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## 📈 Executive Summary  
@@ -162,3 +162,6 @@ In large organizations, different teams rely on fragmented reporting tools, maki
    - **Recommendation:** Focus on driving sales growth in the Networking and Storage division by increasing marketing efforts and sales incentives in sub-regions with high potential. Highlight the profitability of this division to attract more customers.
   
    ![Image](https://github.com/user-attachments/assets/d56ecf8f-191d-44f8-a50c-97ed75c5b843)
+
+
+      **You can explore the interactive Power BI dashboard here :** 👉 [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNzVkODJkOTQtNjI2OS00YTJlLWFlOTUtYmY1MTZiMzNiZTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
