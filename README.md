@@ -2,6 +2,9 @@
 
 **Business Impact :** This project delivered a **360° view of business performance**, enabling executives to drill down into **Finance, Sales, Marketing, and Supply Chain** in real time. By centralizing insights across functions, the solution can help organizations achieve up to **15–20% faster decision-making**, reduce **supply chain risks by 12%**, and improve **profitability tracking accuracy by 25%**.
 
+**You can explore the interactive Power BI dashboard here :** 👉 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzVkODJkOTQtNjI2OS00YTJlLWFlOTUtYmY1MTZiMzNiZTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ## 📈 Executive Summary  
 **Business Insights 360** is a **data analytics and visualization solution** designed to unify business intelligence across **Finance, Sales, Marketing, Supply Chain, and Executive Management**.  
 
